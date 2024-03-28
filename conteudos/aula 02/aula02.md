@@ -6,7 +6,7 @@
 
 #### Especificidades do Briefing para Projetos Web:
 
-Video de referência sobre a aula:[Como Fazer Um BRIEFING Para Criação de Sites Bem Feito (PASSO A PASSO)](https://www.youtube.com/watch?v=KpOzGWT5M4E)
+Video de referência sobre a aula: [Como Fazer Um BRIEFING Para Criação de Sites Bem Feito (PASSO A PASSO)](https://www.youtube.com/watch?v=KpOzGWT5M4E)
 1. **Objetivos do Site:** Definir claramente o propósito do site, como vendas online, divulgação de informações, captação de leads, etc.
 2. **Público-Alvo:** Identificar o perfil dos usuários que o site pretende atingir, incluindo idade, interesses, comportamento online, etc.
 3. **Design e Layout:** Especificar as preferências de design, como esquema de cores, estilo, elementos gráficos, responsividade, etc.
