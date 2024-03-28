@@ -4,6 +4,9 @@
 
 ### Definição e Origens do Briefing
 
+Video de referência sobre a aula: [O que é BRIEFING e como criar um 🤯🏆- HeroSpark
+](https://www.youtube.com/watch?v=CDal2WsBHmc)
+
 O termo "briefing" vem do inglês "brief", que significa "breve" ou "resumo". Originalmente utilizado no contexto militar para descrever reuniões informativas antes de operações, o conceito foi adaptado para o mundo dos negócios e da tecnologia.
 
 Um briefing, no contexto de desenvolvimento de projetos, é um documento ou uma reunião que fornece informações essenciais e orientações para o início e a execução de um projeto. Ele serve como uma ferramenta de comunicação que alinha as expectativas entre o cliente, a equipe de desenvolvimento e outras partes interessadas.
