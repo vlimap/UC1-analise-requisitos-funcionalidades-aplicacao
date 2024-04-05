@@ -7,19 +7,19 @@
 ### Desenvolvimento de Protótipos de Alta Fidelidade:
 
 1. **Escolha da Ferramenta:**
-   - Utilizar ferramentas como o Figma para criar protótipos de alta fidelidade, que proporcionam uma visualização realista do produto final&#8203;``【oaicite:5】``&#8203;&#8203;``【oaicite:4】``&#8203;.
+   - Utilizar ferramentas como o Figma para criar protótipos de alta fidelidade, que proporcionam uma visualização realista do produto final.
 
 2. **Definição dos Objetivos do Protótipo:**
-   - Estabelecer os objetivos e o público-alvo do protótipo para orientar as decisões de design&#8203;``【oaicite:3】``&#8203;.
+   - Estabelecer os objetivos e o público-alvo do protótipo para orientar as decisões de design.
 
 3. **Criação das Telas do Design:**
-   - Desenvolver as telas do design no Figma, representando cada estado e interação do produto&#8203;``【oaicite:2】``&#8203;.
+   - Desenvolver as telas do design no Figma, representando cada estado e interação do produto.
 
 4. **Adição de Elementos Interativos:**
-   - Utilizar recursos interativos do Figma para adicionar animações, transições e interações às telas, simulando a experiência do usuário&#8203;``【oaicite:1】``&#8203;.
+   - Utilizar recursos interativos do Figma para adicionar animações, transições e interações às telas, simulando a experiência do usuário.
 
 5. **Teste e Iteração:**
-   - Testar o protótipo e coletar feedback para fazer ajustes e melhorias, iterando o processo de design&#8203;``【oaicite:0】``&#8203;.
+   - Testar o protótipo e coletar feedback para fazer ajustes e melhorias, iterando o processo de design.
 
 ### Planejamento e Execução de Testes de Usabilidade:
 

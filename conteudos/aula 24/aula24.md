@@ -8,7 +8,7 @@
 
 1. **Identificação dos Requisitos:**
    - Levantar as necessidades dos usuários e as funcionalidades esperadas do sistema.
-   - Diferenciar entre requisitos funcionais (ações que o sistema deve executar) e não funcionais (atributos de qualidade, como segurança e desempenho)&#8203;``【oaicite:3】``&#8203;&#8203;``【oaicite:2】``&#8203;.
+   - Diferenciar entre requisitos funcionais (ações que o sistema deve executar) e não funcionais (atributos de qualidade, como segurança e desempenho).
 
 2. **Priorização dos Requisitos:**
    - Estabelecer a importância de cada requisito para garantir que os mais críticos sejam atendidos primeiro.
@@ -19,10 +19,10 @@
 ### Modelagem da Aplicação:
 
 1. **Diagramas de Caso de Uso:**
-   - Utilizar diagramas de caso de uso para representar as interações entre os usuários e o sistema, mostrando as funcionalidades do software e seus requisitos&#8203;``【oaicite:1】``&#8203;.
+   - Utilizar diagramas de caso de uso para representar as interações entre os usuários e o sistema, mostrando as funcionalidades do software e seus requisitos.
 
 2. **Diagramas de Classe:**
-   - Criar diagramas de classe para representar a estrutura do sistema, incluindo classes, atributos, métodos e relacionamentos&#8203;``【oaicite:0】``&#8203;.
+   - Criar diagramas de classe para representar a estrutura do sistema, incluindo classes, atributos, métodos e relacionamentos.
 
 3. **Outros Diagramas UML:**
    - Dependendo da complexidade do projeto, outros diagramas UML, como diagramas de sequência e de atividades, podem ser utilizados para detalhar aspectos específicos do sistema.

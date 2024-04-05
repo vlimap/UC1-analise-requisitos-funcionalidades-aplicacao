@@ -7,30 +7,30 @@
 ### Implementação das Funcionalidades:
 
 1. **Desenvolvimento Incremental:**
-   - Adotar uma abordagem incremental para o desenvolvimento, implementando e testando pequenas funcionalidades de cada vez, seguindo os princípios ágeis&#8203;``【oaicite:7】``&#8203;.
+   - Adotar uma abordagem incremental para o desenvolvimento, implementando e testando pequenas funcionalidades de cada vez, seguindo os princípios ágeis.
 
 2. **Revisão de Código:**
-   - Realizar revisões de código para garantir a qualidade e a manutenção da padronização do código, além de identificar possíveis problemas de segurança&#8203;``【oaicite:6】``&#8203;.
+   - Realizar revisões de código para garantir a qualidade e a manutenção da padronização do código, além de identificar possíveis problemas de segurança.
 
 3. **Testes Automatizados:**
-   - Implementar testes automatizados para validar as funcionalidades desenvolvidas e garantir a estabilidade do sistema&#8203;``【oaicite:5】``&#8203;.
+   - Implementar testes automatizados para validar as funcionalidades desenvolvidas e garantir a estabilidade do sistema.
 
 4. **Integração Contínua:**
-   - Utilizar ferramentas de integração contínua para automatizar a compilação, o teste e a implantação do software, permitindo detectar e corrigir problemas rapidamente&#8203;``【oaicite:4】``&#8203;.
+   - Utilizar ferramentas de integração contínua para automatizar a compilação, o teste e a implantação do software, permitindo detectar e corrigir problemas rapidamente.
 
 ### Técnicas de Segurança e Otimização de Desempenho:
 
 1. **Segurança de Dados:**
-   - Implementar medidas de segurança para proteger os dados do sistema, como criptografia, controle de acesso e autenticação em dois fatores&#8203;``【oaicite:3】``&#8203;.
+   - Implementar medidas de segurança para proteger os dados do sistema, como criptografia, controle de acesso e autenticação em dois fatores.
 
 2. **Otimização de Desempenho:**
-   - Realizar otimizações de desempenho, como a redução do tempo de carregamento das páginas, a otimização de consultas ao banco de dados e a utilização de técnicas de cache&#8203;``【oaicite:2】``&#8203;.
+   - Realizar otimizações de desempenho, como a redução do tempo de carregamento das páginas, a otimização de consultas ao banco de dados e a utilização de técnicas de cache.
 
 3. **Monitoramento e Análise:**
-   - Utilizar ferramentas de monitoramento para acompanhar o desempenho e a segurança do sistema em tempo real, permitindo identificar e resolver problemas rapidamente&#8203;``【oaicite:1】``&#8203;.
+   - Utilizar ferramentas de monitoramento para acompanhar o desempenho e a segurança do sistema em tempo real, permitindo identificar e resolver problemas rapidamente.
 
 4. **Manutenção e Atualizações:**
-   - Estabelecer um plano de manutenção e atualizações regulares para garantir a segurança e o bom desempenho do sistema ao longo do tempo&#8203;``【oaicite:0】``&#8203;.
+   - Estabelecer um plano de manutenção e atualizações regulares para garantir a segurança e o bom desempenho do sistema ao longo do tempo.
 
 ### Atividade Prática: Aplicação do Desenvolvimento e Implementação
 
