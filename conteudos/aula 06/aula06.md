@@ -7,6 +7,7 @@
 #### Tecnologias Avançadas para Desenvolvimento Desktop:
 
 1. **Electron:**
+   - Video relacionado: [Electron JS (JavaScript no Desktop) // Dicionário do Programador)](https://www.youtube.com/watch?v=Et7IBA0PhXk)
    - Descrição: Framework que permite o desenvolvimento de aplicações desktop nativas usando tecnologias web como HTML, CSS e JavaScript.
    - Vantagens: Permite a criação de aplicações multiplataforma (Windows, macOS, Linux) com uma única base de código; integração fácil com APIs do sistema operacional e módulos Node.js.
    - Exemplo: Visual Studio Code, Slack e Discord são exemplos de aplicações populares desenvolvidas com Electron.

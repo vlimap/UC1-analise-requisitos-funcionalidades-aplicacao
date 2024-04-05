@@ -1,16 +1,19 @@
 ### Aula 7: Requisitos Funcionais e Não-Funcionais - Parte 1
 
 #### Objetivos:
+
 - Compreender os conceitos de requisitos funcionais e não-funcionais.
 - Aprender técnicas para identificar e documentar requisitos funcionais.
 
 #### Conceitos Detalhados de Requisitos Funcionais e Não-Funcionais:
 
 1. **Requisitos Funcionais:**
+   - Video relacionado: [#05 - Análise de Requisitos (2) - Requisitos Funcionais](https://www.youtube.com/watch?v=Gz5lxyfyYTA)
    - Descrição: Requisitos funcionais definem as funcionalidades específicas que o sistema deve oferecer. Eles descrevem o comportamento do sistema em termos de tarefas ou serviços que ele deve realizar.
    - Exemplos: Cadastro de usuário, busca de produtos, processamento de pagamentos, geração de relatórios, etc.
 
 2. **Requisitos Não-Funcionais:**
+   - Video relacionado: [#06 - Análise de Requisitos (3) - Requisitos Não Funcionais](https://www.youtube.com/watch?v=Wc8JVmIWHC0)
    - Descrição: Requisitos não-funcionais especificam critérios que podem ser usados para julgar a operação de um sistema, em vez de comportamentos específicos. Eles incluem aspectos como desempenho, segurança, usabilidade, confiabilidade, etc.
    - Exemplos: Tempo de resposta, capacidade de carga, compatibilidade com diferentes navegadores ou sistemas operacionais, etc.
 

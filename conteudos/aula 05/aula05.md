@@ -5,6 +5,7 @@
 - Compreender a aplicação prática de tecnologias como Progressive Web Apps (PWAs), WebAssembly, entre outras.
 
 #### Visão Geral das Tecnologias Emergentes no Desenvolvimento Web:
+- Video relacionado: [CAMINHOS PARA SER UM DEV FRONT-END EM 2023 (GUIA COMPLETO E ATUALIZADO)](https://www.youtube.com/watch?v=30nlBGjPRYM)
 O desenvolvimento web está em constante evolução, com novas tecnologias surgindo para atender às demandas crescentes por aplicativos mais rápidos, seguros e interativos. Algumas das tecnologias emergentes que estão moldando o futuro do desenvolvimento web incluem:
 
 1. **Progressive Web Apps (PWAs):** PWAs são uma abordagem para criar aplicativos web que se comportam como aplicativos nativos em dispositivos móveis. Eles são projetados para funcionar offline, serem instaláveis na tela inicial do usuário e receber notificações push, proporcionando uma experiência de usuário aprimorada.
